@@ -8,7 +8,7 @@ import android.graphics.Canvas;
 import android.graphics.Matrix;
 import android.graphics.Shader;
 import android.graphics.drawable.Drawable;
-import android.util.AttributeSet;
+import android.util.AttributeSet;//导入的软件包
 import android.widget.TextView;
 
 /**
